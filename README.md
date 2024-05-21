@@ -8,8 +8,7 @@
 ---
 
 ## 稍微會一些的語言
-(Icon-C#.png "icon")
-  
+<p><img alt="圖" title="icon" src="Icon-pictures.png" /></p>  
 
 <!---
 BlackWhiteTW/BlackWhiteTW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
